@@ -6,4 +6,4 @@ The AGV dispatching and path planning logic are not included in this module.
 The simulation progress is based on the datas in the json files.
 
 ## Demonstration
-![image](picture or gif url)
+![image](https://github.com/arrtvv852/DQN-for-AGV-dispatching-animation/blob/master/Demo.gif)
